@@ -58,8 +58,12 @@ Trigger with `Ctrl+Shift+G` (`Cmd+Shift+G` on Mac) from any `.sql` file.
 | MariaDB | Full support |
 | CockroachDB | Full support |
 | Microsoft SQL Server | Full support |
+| ClickHouse | Full support |
 | MongoDB | Read-only (query + browse) |
+| ElasticSearch | Read-only (query + browse) |
 | SQLite | Full support |
+
+All server-based databases support **SSH tunneling** — connect through a bastion host with key or password authentication.
 
 ## Getting Started
 
