@@ -2,6 +2,17 @@
 
 A lightweight, fast database client for VS Code, Cursor, Windsurf, and any compatible editor. Connect to **PostgreSQL**, **MySQL**, and **SQLite** databases directly from your editor.
 
+[![Open VSX](https://img.shields.io/open-vsx/dt/gudlab/guddb?label=Open%20VSX)](https://open-vsx.org/extension/gudlab/guddb)
+[![VS Marketplace](https://img.shields.io/visual-studio-marketplace/i/gudlab.guddb?label=VS%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=gudlab.guddb)
+
+Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=gudlab.guddb) or [Open VSX](https://open-vsx.org/extension/gudlab/guddb). Site: [gudlab.org/guddb-manager.html](https://gudlab.org/guddb-manager.html).
+
+## Source
+
+The **editor extension is proprietary**. This repository is the public home for product docs and [issues](https://github.com/gudlab/guddb-database-client/issues). It does **not** contain the VS Code / Open VSX extension source.
+
+If you followed a GitHub link from the Marketplace or Open VSX, you are in the right place for bugs and feature requests. There is nothing here to clone for the UI. GudDB is not an open-source database engine, and this tracker is not a source tree.
+
 ## Features
 
 ### Connect with a URI or JDBC URL
@@ -94,6 +105,8 @@ GudDB Manager is free. If it saves you time, consider supporting development:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/timchosen)
 
+Report bugs and request features at [github.com/gudlab/guddb-database-client/issues](https://github.com/gudlab/guddb-database-client/issues).
+
 ## License
 
-Proprietary - free to use. See LICENSE file for details.
+Proprietary — free to use. See [LICENSE](./LICENSE). The editor UI is not open source. The GPL-3.0 file that previously lived in this issues repo was a mistake and did not apply to the extension.
